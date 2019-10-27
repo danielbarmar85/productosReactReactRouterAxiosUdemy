@@ -1,0 +1,28 @@
+{
+  "restaurant": [
+    {
+      "precioPlatillo": "120",
+      "nombrePlatillo": "Cheesecake",
+      "categoria": "postre",
+      "id": 1
+    },
+    {
+      "precioPlatillo": "300",
+      "nombrePlatillo": "Rib Eye 400g",
+      "categoria": "cortes",
+      "id": 2
+    },
+    {
+      "nombrePlatillo": "Ensalada primavera",
+      "precioPlatillo": "200",
+      "categoria": "ensalada",
+      "id": 3
+    },
+    {
+      "precioPlatillo": "80",
+      "nombrePlatillo": "Agua de frutas",
+      "categoria": "bebida",
+      "id": 4
+    }
+  ]
+}
